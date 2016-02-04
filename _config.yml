@@ -1,7 +1,7 @@
 name: kinoko futon
 favicon: null
 layout_spectrum: 0.0609783292748034
-typography_spectrum: 0.27140599861741066
+typography_spectrum: 0.53445
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.17805215041153133
-  lightness: 0.3923931303434074
-  saturation: 0.005010082386434078
-  rhythmicContrast: 0.5636295164003968
+    - '#100b05'
+    - '#f5f0da'
+    - '#4d3a1c'
+    - '#b1803d'
+    - '#e0c784'
+  brandStrength: 0.25
+  lightness: 0.25
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
